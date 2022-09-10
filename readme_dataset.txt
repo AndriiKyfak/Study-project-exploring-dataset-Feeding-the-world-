@@ -1,0 +1,1 @@
+Dataset is archived, extract first or download directly from original source: https://www.kaggle.com/datasets/pranav941/-world-food-wealth-bank?resource=download&select=crop1.csv
